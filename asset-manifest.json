@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/react-frontend/static/css/main.415dfc9b.chunk.css",
+    "main.js": "/react-frontend/static/js/main.28ae1046.chunk.js",
+    "main.js.map": "/react-frontend/static/js/main.28ae1046.chunk.js.map",
+    "runtime-main.js": "/react-frontend/static/js/runtime-main.4e3a6042.js",
+    "runtime-main.js.map": "/react-frontend/static/js/runtime-main.4e3a6042.js.map",
+    "static/css/2.150d169a.chunk.css": "/react-frontend/static/css/2.150d169a.chunk.css",
+    "static/js/2.e9dabcd6.chunk.js": "/react-frontend/static/js/2.e9dabcd6.chunk.js",
+    "static/js/2.e9dabcd6.chunk.js.map": "/react-frontend/static/js/2.e9dabcd6.chunk.js.map",
+    "index.html": "/react-frontend/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/react-frontend/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.415dfc9b.chunk.css.map": "/react-frontend/static/css/main.415dfc9b.chunk.css.map",
+    "static/js/2.e9dabcd6.chunk.js.LICENSE.txt": "/react-frontend/static/js/2.e9dabcd6.chunk.js.LICENSE.txt",
+    "static/media/Andriod.36f3faec.jpg": "/react-frontend/static/media/Andriod.36f3faec.jpg",
+    "static/media/App.5e8d031a.png": "/react-frontend/static/media/App.5e8d031a.png",
+    "static/media/Digital.522dd5bf.jpg": "/react-frontend/static/media/Digital.522dd5bf.jpg",
+    "static/media/Marketing.a5059d12.png": "/react-frontend/static/media/Marketing.a5059d12.png",
+    "static/media/Software.3f1f5d16.png": "/react-frontend/static/media/Software.3f1f5d16.png",
+    "static/media/Web.15b5ac4d.png": "/react-frontend/static/media/Web.15b5ac4d.png",
+    "static/media/index.css": "/react-frontend/static/media/blob.8e76251c.svg",
+    "static/media/img1.3622b812.png": "/react-frontend/static/media/img1.3622b812.png",
+    "static/media/img2.431a17c5.png": "/react-frontend/static/media/img2.431a17c5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e3a6042.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.e9dabcd6.chunk.js",
+    "static/css/main.415dfc9b.chunk.css",
+    "static/js/main.28ae1046.chunk.js"
+  ]
+}
